@@ -1,0 +1,31 @@
+.campoTexto {
+    margin: 24px 0;
+}
+
+.campoTexto label {
+    display: block;
+    width: 109px;
+    height: 22px;
+    top: 756px;
+    left: 255px;
+    color: rgba(33, 33, 33, 1);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.campoTexto input{
+    background-color: white;
+    box-shadow: 10px 10px 30px rgba(31, 31, 31, 0.233);
+    width: 100%;
+    height:12px;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 8px;
+}

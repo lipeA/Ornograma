@@ -1,0 +1,19 @@
+.area-butao {
+    margin-top: 2rem;
+}
+
+.area-butao button {
+    width: 167px;
+    height: 80px;
+    top: 1313px;
+    left: 255px;
+    border: none;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 1);
+    background: rgba(98, 120, 247, 1);
+    cursor: pointer;
+}
+
+.area-butao button:hover {
+    color: #95FFD4;
+}
